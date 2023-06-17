@@ -1,7 +1,4 @@
-# individual-6-6
-# individual-6-6
-
-**Ejercicio Individual 6-6**
+# Ejercicio Individual 6-6
 
 Como continuación del trabajo anterior, se crearon dos grupos de usuarios: **Moderadores** y **Usuarios**. Se crearon dos usuarios por cada grupo con las siguientes credenciales:
 
